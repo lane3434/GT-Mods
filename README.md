@@ -3,7 +3,6 @@ made with ❤️ by x6
 
 **MODS:**
 - Realistic Longarms
-  - a
 - Selectable Gravity
 - CS Cosmetic Stealer
 
