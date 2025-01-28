@@ -5,8 +5,8 @@ made with ❤️ by x6
 - Realistic Longarms
 - Selectable Gravity
 - CS Cosmetic Stealer
+- Bigger Tag Hitbox
 
 **WORKING ON:**
-- SpeedBoost
-- Bigger tag hitbox
+- SpeedBoos
 - Hooks
