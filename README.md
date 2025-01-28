@@ -8,5 +8,5 @@ made with ❤️ by x6
 - Bigger Tag Hitbox
 
 **WORKING ON:**
-- SpeedBoos
+- SpeedBoost
 - Hooks
